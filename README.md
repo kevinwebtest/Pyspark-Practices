@@ -1,2 +1,2 @@
 # Pyspark-Practices
-Some Python codes I made to practice using the PySpark library. The files are created in Jupyter Notebook/Google Colab.
+Some Python codes I made to practice using the PySpark library. The files were created in Jupyter Notebook/Google Colab.
